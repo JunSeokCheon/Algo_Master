@@ -1,7 +1,7 @@
 ---
-# 💯 알고리즘 및 코딩 테스트 문제 풀이 📝
+# 💯 알고리즘 및 코딩 테스트 문제 풀이 📝✅🟩
 
-### ✍ N Problems Solved
+### ✍ 0 Problems Solved
 
 
 ## 👩‍👦‍👦 **스터디 멤버**
@@ -9,20 +9,24 @@
  <tr>
     <td align="center"><a href="https://github.com/JunSeokCheon"><img src="https://avatars.githubusercontent.com/JunSeokCheon" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/kimdahyeon977"><img src="https://avatars.githubusercontent.com/kimdahyeon977" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/blcklamb"><img src="https://avatars.githubusercontent.com/blcklamb" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/kma7574"><img src="https://avatars.githubusercontent.com/kma7574" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/kypa123"><img src="https://avatars.githubusercontent.com/kypa123" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/Zuhye"><img src="https://avatars.githubusercontent.com/Zuhye" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/JunSeokCheon"><b>천준석</b></td>
-    <td align="center"><a href="https://github.com/Mosquito0076"><b>김다현</b></td>
-    <td align="center"><a href="https://github.com/Mosquito0076"><b>김채정</b></td>
-    <td align="center"><a href="https://github.com/Mosquito0076"><b>정재윤</b></td>
-    <td align="center"><a href="https://github.com/Mosquito0076"><b>주지호</b></td>
-    <td align="center"><a href="https://github.com/Mosquito0076"><b>송주혜</b></td>
+    <td align="center"><a href="https://github.com/kimdahyeon977"><b>김다현</b></td>
+    <td align="center"><a href="https://github.com/blcklamb"><b>김채정</b></td>
+    <td align="center"><a href="https://github.com/kma7574"><b>정재윤</b></td>
+    <td align="center"><a href="https://github.com/kypa123"><b>주지호</b></td>
+    <td align="center"><a href="https://github.com/Zuhye"><b>송주혜</b></td>
   </tr>
   <tr> 
     <td align="center">Python</td>
     <td align="center">Python</td>
-    <td align="center">Java<y</td>
-    <td align="center">Java</td>
+    <td align="center">Python, Javascript<y</td>
+    <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">Python</td>
   </tr> 
@@ -35,8 +39,11 @@
 <br />
 
 ### :pencil: Rule  
-- 스터디 시간 : 평일 오후 2시  
-- 일주일 동안 5문제 꾸준히 풀기 (평일 하루에 한 문제씩)
+- 스터디 시간 : 일요일 오전 11시 30분  
+- 일주일 동안 4문제 꾸준히 풀기 (하루에 한 문제씩 습관!)
+- 토요일 오후 6시까지 풀었던 문제 Commit 하기!!!
+- 해당 주차 readme 담당자는 스터디 후 당일까지 업데이트 완료하기
+- 플랫폼은 [코딩테스트 대비 문제집](https://github.com/tony9402/baekjoon)을 사용
 - 참여 방법 설명글: <https://waytocse.tistory.com/59>
 - 위 링크는 참고용이며, 저희의 스터디 규칙은 아래를 참고해주세요
 
@@ -45,7 +52,7 @@
 
 ## ✅ 참여 방법
 1. 이 저장소를 `fork` 한다. 
-2. 매주 새 디렉터리를 만듭니다. (ex. 1주차, 2주차 ...)
+2. 매주 새 디렉터리를 만듭니다. (ex. Week1, Week2 ...)
 3. 디렉터리에 문제 디렉터리를 또 만듭니다. 
 4. 해당 문제 폴더에 자신의 소스코드.md를 업로드 한다. 
 5. 이때 `commit 규칙`을 지키도록한다!
@@ -66,7 +73,7 @@
 # ```
 
 ```
-- Java : java
+- Javascript : Javascript
 - Python : python
 - 폴더명 또는 소스코드 파일명에 콜론 ":" 안됩니다 :D
 
@@ -99,19 +106,16 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분"
 <br />
 
 ## ✅How to Code Review   
-#### 1. Commit History로 리뷰하는 방법 
-다른 사람이 커밋한 데다가 댓글 다는 방식 =>
-[예시](https://github.com/ohgyun/using-github-for-code-reviews/commit/8a85b15805237214aea83a1131f0548b3b69a2d8)    
+### 랜덤 라이브 코딩   
+![image](https://user-images.githubusercontent.com/44998798/215301612-140acc13-04f9-4614-a443-8669a1217da0.png)
+![image](https://user-images.githubusercontent.com/44998798/215301621-e1d529be-a35c-4adf-a3c6-74facc067e10.png)
 
-#### 2. Pull Request로 리뷰하는 방법   
-- [fork해서 Pull Request 보내는 법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)  
-- [fork된 레포지토리 최신상태 유지하는 법](https://jybaek.tistory.com/775)   
 -------
 
-1) 새로운 branch를 하나 만듭니다.  
-2) 새로 만든 branch에 코드를 push합니다.  
-3) push 완료 후 GitHub branch 페이지에 들어오면 Pull Request(PR)할건지 버튼이 생깁니다. 클릭!
-4) <b>스터디 시간 전에 merge</b>하면 됩니다. (merge 후 branch는 삭제해도 됩니다.)
+1) 스터디 당일 랜덤 4명을 뽑습니다.  
+2) 라이브 코딩(화면 공유)을 진행하면서 설명합니다.(문제에 대한 근거를 말하면서 진행)   
+3) 다른 분들은 라이브 코딩을 보며 여러 가지 리뷰 or 궁금한 점을 말합니다.
+4) 자신은 다른 방식으로 풀었다 하시는 분들은 자신의 코드를 설명해주시면 더 좋습니다
 5) 코드 리뷰는 스터디 시간에 진행합니다.
    
 #### 일단 이렇게 정리해 봤습니다,, 보완할 부분 있으면 자유롭게 수정해주세요! :smile:
@@ -121,22 +125,34 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분"
                   
 ​                   
 
-##  🟨 알고리즘 풀이 (2022.12.13 ~ )
+##  🟨 알고리즘 풀이 (2023.01.29 ~ )
+
+> **[ 예상 알고리즘 풀이 순서 ]**
+
+> 1. Data Structure 1, 2 (자료구조 1, 2) 
+> 2. Implementation (구현)
+> 3. Brute Force (완전 탐색)
+> 4. Graph Traversal (그래프 탐색 - BFS, DFS)
+> 5. String (문자열)
+> 6. Greedy (탐욕법)
+> 7. Dynamic Programming 1, 2 (동적계획법 1, 2)
+> 8. 트리, 백트래킹, 투 포인터, 시뮬레이션, 최단 거리, 이분 탐색 등
 
 > **[ 스터디 방식 ]**
->
-> 1. 알고리즘 스터디는 평일 매일마다 1문제씩 푼다.
-> 2. 각자 문제 풀이 후 스터디 모임 때 코드 리뷰를 진행한다.
-> 3. 난이도는 실버3 이상의 문제를 풀되, 점차 높여간다.
-> 4. 이와 같은 방식으로 일주일에 5 번 진행해 총 5문제를 풀이할 수 있다.
 
-|          주차          |    날짜      |기출 유형                                                    | 문제명                                                       | 난이도                                   | 풀이여부 |       풀이 링크         |
-| --------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- | -------- | -------- |
-| Week1 | 22.12.13<br /> 22.12.14<br /> 22.12.15<br /> 22.12.16<br /> |Data Structre (자료구조)                                           | [스택 수열](https://www.acmicpc.net/problem/1874)<br />[후위 표기식2](https://www.acmicpc.net/problem/1935)<br />[후위 표기식](https://www.acmicpc.net/problem/1918)<br />[풍선 터트리기](https://www.acmicpc.net/problem/2346) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>                 | ✅<br />✅<br />✅<br />✅        | <a href="./Week1">바로가기</a> |
-Week2 | 22.12.19<br /> 22.12.20<br /> 22.12.21<br /> 22.12.22<br /> 22.12.23<br /> |Data Structre (자료구조)                                           | [괄호의 값](https://www.acmicpc.net/problem/2504)<br />[괄호 제거](https://www.acmicpc.net/problem/2800)<br />[프린터 큐](https://www.acmicpc.net/problem/1966)<br />[카드 놓기](https://www.acmicpc.net/problem/18115) <br />[탑](https://www.acmicpc.net/problem/2493)| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   | ✅<br />✅<br />✅<br />✅<br />✅      | <a href="./Week2">바로가기</a> |
-Week3 | 22.12.27<br /> 22.12.28<br /> 22.12.29<br /> 22.12.30<br /> |Data Structre 2 (자료구조)                                           | [N번째 큰 수](https://www.acmicpc.net/problem/2075)<br />[N으로 만들기](https://www.acmicpc.net/problem/17255)<br />[절대값 힙](https://www.acmicpc.net/problem/11286)<br />[중앙값 구하기](https://www.acmicpc.net/problem/2696)  | <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br /> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/><br />                  | ✅<br />✅<br />✅<br />✅<br />     | <a href="./Week3">바로가기</a>
-Week4 | 22.01.02<br /> 22.01.03<br /> 22.01.04<br /> 22.01.05<br /> 22.01.06<br /> |Tree                                          | [상근이의 여행](https://www.acmicpc.net/problem/9372)<br />[이진 검색 트리](https://www.acmicpc.net/problem/5639)<br />[트리 순회](https://www.acmicpc.net/problem/1991)<br />[노드사이의 거리](https://www.acmicpc.net/problem/1240) <br />[트리](https://www.acmicpc.net/problem/4803)| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   | ✅<br />✅<br />✅<br />✅<br />✅    | <a href="./Week4">바로가기</a> |
-Week5 | 22.01.09<br /> 22.01.10<br /> 22.01.11<br /> 22.01.12<br /> 22.01.13<br /> |Tree                                          | [완전 이진 트리](https://www.acmicpc.net/problem/9934)<br />[트리의 지름](https://www.acmicpc.net/problem/1967)<br />[단절점과 단절선](https://www.acmicpc.net/problem/14675)<br />[계보 복원가 호석](https://www.acmicpc.net/problem/21276) <br />[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>   | ✅<br />✅<br />✅<br />✅<br />✅    | <a href="./Week5">바로가기</a> |
-Week 6| 22.01.16<br /> 22.01.17<br /> 22.01.18<br /> 22.01.19<br /> 22.01.20<br /> |Tree                                          | [부동산다툼](https://www.acmicpc.net/problem/20364)<br />[뉴턴의 사과](https://www.acmicpc.net/problem/4933)<br />[나무 탈출](https://www.acmicpc.net/problem/15900)<br />[트리의 높이와 너비](https://www.acmicpc.net/problem/2250) <br />[트리 수정](https://www.acmicpc.net/problem/12912)| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/>   | ✅<br />✅<br />✅<br />✅<br />✅    | <a href="./Week6">바로가기</a> |
-Week 7| 22.01.25<br /> 22.01.26<br /> 22.01.27<br />  |Dynamic Programming                                         | [코딩테스트 리뷰] <br />[오르막 수](https://www.acmicpc.net/problem/11057)<br />[암호코드](https://www.acmicpc.net/problem/2011)<br /> <br />| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  <br /> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   | ✅<br />✅    | <a href="./Week7">바로가기</a> |
+> 0. 플랫폼은 [코딩테스트 대비 문제집](https://github.com/tony9402/baekjoon)을 사용한다. 
+> 1. 알고리즘 스터디는 매주 4문제씩 푼다.
+> 2. 각자 문제 풀이 후 스터디 모임 때 코드 리뷰를 진행한다.
+> 3. 난이도는 실버 이상의 문제를 풀되, 점차 높여간다.
+> 4. 이와 같은 방식으로 일주일에 총 4문제를 풀이할 수 있다.
+
+|          주차          |    알고리즘      |기출 유형                                                    | 문제명                                                       | 난이도                                   | 풀이여부 |       풀이 링크         | readme 담당자 |
+| --------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- | -------- | -------- | ---------------- |
+| Week1 | 큐, 스택, 덱 |Data Structre (자료구조)                                           | [후위 표기식2](https://www.acmicpc.net/problem/1935)<br />[괄호 제거](https://www.acmicpc.net/problem/2800)<br />[스택 수열](https://www.acmicpc.net/problem/1874)<br />[풍선 터트리기](https://www.acmicpc.net/problem/2346) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>                 | 🟩<br />🟩<br />🟩<br />🟩        | <a href="./Week1">바로가기</a> | 준석 |
+Week2 |  |  |  |  |  |  | 다현 |
+Week3 |  |  |  |  |  |  | 채정 |
+Week4 |  |  |  |  |  |  | 주혜 |
+Week5 |  |  |  |  |  |  | 재윤 |
+Week6 |  |  |  |  |  |  | 지호 |
+
 
