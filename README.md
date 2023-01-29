@@ -147,7 +147,7 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분"
 > 4. 이와 같은 방식으로 일주일에 총 4문제를 풀이할 수 있다.
 
 |          주차          |    알고리즘      |기출 유형                                                    | 문제명                                                       | 난이도                                   | 풀이여부 |       풀이 링크         | readme 담당자 |
-| --------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- | -------- | -------- | ---------------- |
+| --------------- | --------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------ | ---------------- | ---------------- | ---------------- |
 | Week1 | 큐, 스택, 덱 |Data Structre (자료구조)                                           | [후위 표기식2](https://www.acmicpc.net/problem/1935)<br />[괄호 제거](https://www.acmicpc.net/problem/2800)<br />[스택 수열](https://www.acmicpc.net/problem/1874)<br />[풍선 터트리기](https://www.acmicpc.net/problem/2346) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>                 | 🟩<br />🟩<br />🟩<br />🟩        | <a href="./Week1">바로가기</a> | 준석 |
 Week2 |  |  |  |  |  |  | 다현 |
 Week3 |  |  |  |  |  |  | 채정 |
