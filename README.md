@@ -13,7 +13,6 @@
     <td align="center"><a href="https://github.com/kma7574"><img src="https://avatars.githubusercontent.com/kma7574" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/kypa123"><img src="https://avatars.githubusercontent.com/kypa123" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/Zuhye"><img src="https://avatars.githubusercontent.com/Zuhye" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/ylab604"><img src="https://avatars.githubusercontent.com/ylab604" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/JunSeokCheon"><b>천준석</b></td>
@@ -22,13 +21,11 @@
     <td align="center"><a href="https://github.com/kma7574"><b>정재윤</b></td>
     <td align="center"><a href="https://github.com/kypa123"><b>주지호</b></td>
     <td align="center"><a href="https://github.com/Zuhye"><b>송주혜</b></td>
-    <td align="center"><a href="https://github.com/ylab604"><b>전승진</b></td>
   </tr>
   <tr> 
     <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">Python, Javascript<y</td>
-    <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">Python</td>
@@ -157,6 +154,5 @@ Week3 |  |  |  |  |  | 채정 |
 Week4 |  |  |  |  |  | 주혜 |
 Week5 |  |  |  |  |  | 재윤 |
 Week6 |  |  |  |  |  | 지호 |
-Week7 |  |  |  |  |  | 승진 |
 
 
