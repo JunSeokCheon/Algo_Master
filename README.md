@@ -133,9 +133,9 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분"
 > **[ 예상 알고리즘 풀이 순서 ]**
 
 > 1. Data Structure 1, 2 (자료구조 1, 2) 
-> 2. Implementation (구현)
-> 3. Brute Force (완전 탐색)
-> 4. Graph Traversal (그래프 탐색 - BFS, DFS)
+> 2. Graph Traversal (그래프 탐색 - BFS, DFS)
+> 3. Implementation (구현)
+> 4. Brute Force (완전 탐색) 
 > 5. String (문자열)
 > 6. Greedy (탐욕법)
 > 7. Dynamic Programming 1, 2 (동적계획법 1, 2)
@@ -153,9 +153,9 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분"
 | --------------- | --------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------ | ---------------- | ------- |
 | Week1 | 큐<br /> 스택<br /> 덱<br /> |Data Structre (자료구조)                                           | [후위 표기식2](https://www.acmicpc.net/problem/1935)<br />[괄호 제거](https://www.acmicpc.net/problem/2800)<br />[스택 수열](https://www.acmicpc.net/problem/1874)<br />[풍선 터트리기](https://www.acmicpc.net/problem/2346) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>                 | ✅<br />✅<br />✅<br />✅<br />        | 준석 |
 Week2 |  큐<br /> 스택<br /> 덱<br /> |Data Structre (자료구조)                                           | [요세푸스 문제](https://www.acmicpc.net/problem/1158)<br />[쇠막대기](https://www.acmicpc.net/problem/10799)<br />[데이터 체커](https://www.acmicpc.net/problem/22942)<br />[괄호의 값](https://www.acmicpc.net/problem/2504)<br />-------------- <br />[후위 표기식](https://www.acmicpc.net/problem/1918)| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br /> ------ <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>                 | 🟩<br />🟩<br />🟩<br />🟩<br />       | 다현 |
-Week3 |  |  |  |  |  | 채정 |
-Week4 |  |  |  |  |  | 주혜 |
-Week5 |  |  |  |  |  | 재윤 |
-Week6 |  |  |  |  |  | 지호 |
-Week7 | | | | | | 승진 |
+Week3 |  큐<br /> 스택<br /> 덱<br /> |Data Structre (자료구조)                                           | [최대 힙](https://www.acmicpc.net/problem/11279)<br />[N번째 큰 수](https://www.acmicpc.net/problem/2075)<br />[N으로 만들기](https://www.acmicpc.net/problem/17255)<br />[가운데를 말해요](https://www.acmicpc.net/problem/1655) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br /><img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/><br />  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>                | 🟩<br />🟩<br />🟩<br />🟩<br />       | 주혜 |
+Week4 |  |  |  |  |  | 재윤 |
+Week5 |  |  |  |  |  | 지호 |
+Week6 |  |  |  |  |  | 승진 |
+Week7 | | | | | |  |
 
