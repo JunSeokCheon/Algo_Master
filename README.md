@@ -9,7 +9,7 @@
  <tr>
     <td align="center"><a href="https://github.com/JunSeokCheon"><img src="https://avatars.githubusercontent.com/JunSeokCheon" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/kimdahyeon977"><img src="https://avatars.githubusercontent.com/kimdahyeon977" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/blcklamb"><img src="https://avatars.githubusercontent.com/blcklamb" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jiyehyeon"><img src="https://avatars.githubusercontent.com/jiyehyeon" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/kma7574"><img src="https://avatars.githubusercontent.com/kma7574" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/kypa123"><img src="https://avatars.githubusercontent.com/kypa123" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/Zuhye"><img src="https://avatars.githubusercontent.com/Zuhye" width="150px;" alt=""></td>
@@ -18,7 +18,7 @@
   <tr>
     <td align="center"><a href="https://github.com/JunSeokCheon"><b>천준석</b></td>
     <td align="center"><a href="https://github.com/kimdahyeon977"><b>김다현</b></td>
-    <td align="center"><a href="https://github.com/blcklamb"><b>김채정</b></td>
+    <td align="center"><a href="https://github.com/jiyehyeon"><b>현지예</b></td>
     <td align="center"><a href="https://github.com/kma7574"><b>정재윤</b></td>
     <td align="center"><a href="https://github.com/kypa123"><b>주지호</b></td>
     <td align="center"><a href="https://github.com/Zuhye"><b>송주혜</b></td>
@@ -27,7 +27,7 @@
   <tr> 
     <td align="center">Python</td>
     <td align="center">Python</td>
-    <td align="center">Python, Javascript<y</td>
+    <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">Python</td>
@@ -157,5 +157,5 @@ Week3 |  Map<br />  Set<br /> Priority Queue<br /> |Data Structre 2 (자료구�
 Week4 |  |  |  |  |  | 재윤 |
 Week5 |  |  |  |  |  | 지호 |
 Week6 |  |  |  |  |  | 승진 |
-Week7 | | | | | |  |
+Week7 | | | | | | 지예 |
 
