@@ -9,7 +9,7 @@ up , down = 0,0
 
 #공기청정기 위치 찾기
 for i in range(r):
-    if arr[i][0]==-1: #항상 1열에 있으므로
+    if arr[i][0]== -1: #항상 1열에 있으므로
         up=i
         down = i+1
         break
@@ -21,7 +21,7 @@ def spread():
     t_arr = [[0]*c for _ in range(r)]
     for i in range(r):
         for j in range(c):
-            if arr[i][j]!=0 and arr[i][j]!=1:
+            if arr[i][j]!=0 and arr[i][j]!=-1:
                 tmp=0
                 for k in range(4):
                     nx = dx[k] + i
